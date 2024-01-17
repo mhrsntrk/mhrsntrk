@@ -5,12 +5,12 @@ I work as Senior Product Owner at Energy Web Foundation. I have B.Sc. in Electri
 
 ## Areas of Work
 - Self-Sovereign Identity
-- Identity and Access Management
 - web3
-- Blockchain
+- Blockchain (Substrate / EVM)
 - Decentralized Applications
 - IoT
 - Cryptography
+- Identity and Access Management
 - Digital Twin
 - Energy Systems
 
