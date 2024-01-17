@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=FF6900&vCenter=true&width=750&lines=hello%2C+world.;hello%2C+decentralized+world.)](https://git.io/typing-svg)
 
 ## About
-I work as Senior Product Owner at Energy Web Foundation. I have B.Sc. in Electrical and Electronics Engineering and MBA degrees. Currently, I am managing Self-Sovereign Identity implementations on Energy Web Chain.
+As Principal Product Manager at Energy Web, I bring a dynamic blend of technical expertise and strategic business knowledge, backed by B.Sc. in Electrical and Electronics Engineering and MBA degrees. My journey in the tech and energy sectors has been marked by a passion for innovation and community engagement. Currently, I am managing EWX ecosystem products, focusing on our "Marketplace" and "SaaS offerings", driving forward the integration of web3 technology in the energy sector. My prior experience includes co-founding and leading various startups in Turkey, where I developed and refined my skills in creating and running technology-driven businesses. At Energy Web, I continue to leverage these skills to foster growth and sustainability in the ever-evolving landscape of web3 solutions.
 
 ## Areas of Work
 - Self-Sovereign Identity
