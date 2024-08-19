@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=FF6900&vCenter=true&width=750&lines=hello%2C+world.;hello%2C+decentralized+world.)](https://git.io/typing-svg)
 
 ## About
-As Principal Product Manager at Energy Web, I bring a dynamic blend of technical expertise and strategic business knowledge, backed by B.Sc. in Electrical and Electronics Engineering and MBA degrees. My journey in the tech and energy sectors has been marked by a passion for innovation and community engagement. Currently, I am managing EWX ecosystem products, focusing on our "Marketplace" and "SaaS offerings", driving forward the integration of web3 technology in the energy sector. My prior experience includes co-founding and leading various startups in Turkey, where I developed and refined my skills in creating and running technology-driven businesses. At Energy Web, I continue to leverage these skills to foster growth and sustainability in the ever-evolving landscape of web3 solutions.
+As the Sr. Project Manager at The Hashgraph Association, I bring a fusion of technical prowess and strategic insight, grounded in a B.Sc. in Electrical and Electronics Engineering and an MBA. My career in tech is driven by a dedication to innovation and impactful leadership. Previously at Energy Web, I led the development of key ecosystem products, integrating web3 technologies into the energy sector. Now, at The Hashgraph Association, I'm excited to steer groundbreaking projects in distributed ledger technology, building on my experience as a tech entrepreneur to advance the blockchain industry.
 
 ## Areas of Work
 - Self-Sovereign Identity
