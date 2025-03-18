@@ -1,17 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=FF6900&vCenter=true&width=750&lines=hello%2C+world.;hello%2C+decentralized+world.)](https://git.io/typing-svg)
 
 ## About
-As the Sr. Project Manager at The Hashgraph Association, I bring a fusion of technical prowess and strategic insight, grounded in a B.Sc. in Electrical and Electronics Engineering and an MBA. My career in tech is driven by a dedication to innovation and impactful leadership. Previously at Energy Web, I led the development of key ecosystem products, integrating web3 technologies into the energy sector. Now, at The Hashgraph Association, I'm excited to steer groundbreaking projects in distributed ledger technology, building on my experience as a tech entrepreneur to advance the blockchain industry.
+As a Senior Product Manager at The Hashgraph Association, I blend technical expertise with strategic vision, leveraging my B.Sc. in Electrical and Electronics Engineering and MBA. My career in technology is driven by a passion for innovation and impactful leadership, with a particular focus on self-sovereign identity (SSI) solutions.
+
+Having worked extensively in the SSI field, I've developed deep knowledge and practical experience implementing decentralized identity systems. During my time at Energy Web, I led the development of Switchboard, one of the pioneering SSI systems in the industry, while also spearheading ecosystem products that integrated web3 technologies into the energy sector.
+
+Now at The Hashgraph Association, I'm at the forefront of building a comprehensive self-sovereign identity system on Hedera. This role allows me to apply my knowledge of distributed ledger technology and my entrepreneurial background to push the boundaries of blockchain applications.
+
+My work spans the intersection of blockchain, digital identity, and enterprise solutions, positioning me to contribute meaningfully to the advancement of decentralized technologies and their real-world implementations.
 
 ## Areas of Work
 - Self-Sovereign Identity
-- web3
-- Blockchain (Substrate / EVM)
+- web3 (Hedera / Substrate / EVM)
 - Decentralized Applications
 - IoT
 - Cryptography
-- Identity and Access Management
-- Digital Twin
 - Energy Systems
 
 ## Connect
