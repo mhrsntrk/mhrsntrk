@@ -1,28 +1,39 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=FF6900&vCenter=true&width=750&lines=hello%2C+world.;hello%2C+decentralized+world.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=FF6900&vCenter=true&width=750&lines=hello%2C+world.;hello%2C+verifiable+world.)](https://mhrsntrk.com)
 
 ## About
-As a Senior Product Manager at The Hashgraph Association, I blend technical expertise with strategic vision, leveraging my B.Sc. in Electrical and Electronics Engineering and MBA. My career in technology is driven by a passion for innovation and impactful leadership, with a particular focus on self-sovereign identity (SSI) solutions.
 
-Having worked extensively in the SSI field, I've developed deep knowledge and practical experience implementing decentralized identity systems. During my time at Energy Web, I led the development of Switchboard, one of the pioneering SSI systems in the industry, while also spearheading ecosystem products that integrated web3 technologies into the energy sector.
+I'm Mahir. I co-founded [su.engineering](https://su.engineering), an independent product and engineering studio in Bilbao, and I run it day to day. We build software for hard technical problems in digital identity, privacy and AI.
 
-Now at The Hashgraph Association, I'm at the forefront of building a comprehensive self-sovereign identity system on Hedera. This role allows me to apply my knowledge of distributed ledger technology and my entrepreneurial background to push the boundaries of blockchain applications.
+My background is product management of large engineering teams, with a B.Sc. in Electrical and Electronics Engineering and an MBA. Before su.engineering I built IDTrust at The Hashgraph Group, serving dozens of projects and tens of thousands of users, and led Switchboard at Energy Web, one of the early production self-sovereign identity systems. I have trained more than 30 senior engineers in verifiable credentials and digital identity, and I wrote [Digital Identity 101](https://academy.su.engineering/courses/digital-identity-101), the first course of the su.engineering Academy.
 
-My work spans the intersection of blockchain, digital identity, and enterprise solutions, positioning me to contribute meaningfully to the advancement of decentralized technologies and their real-world implementations.
+I write at [mhrsntrk.com](https://mhrsntrk.com), mostly about agent identity: how an AI agent proves who it is and, the harder part, what it is allowed to do. Start with [Know Your Agent (KYA)](https://mhrsntrk.com/blog/know-your-agent-kya).
 
-## Areas of Work
-- Self-Sovereign Identity
-- web3 (Hedera / Substrate / EVM)
-- Decentralized Applications
-- IoT
-- Cryptography
-- Energy Systems
+## What I work on
+
+- Digital identity: verifiable credentials, DIDs, OpenID4VP, eIDAS 2 and the EUDI Wallet
+- Agent identity and delegated authority
+- Privacy engineering for AI tools
+- Product engineering, from idea to shipped software
+
+## Open source at su.engineering
+
+- [**keycloak-oid4vp**](https://github.com/su-engineering/keycloak-oid4vp): OpenID4VP wallet login for Keycloak, with SD-JWT VC and mDoc verification
+- [**eudi-disclosure-policy**](https://github.com/su-engineering/eudi-disclosure-policy): checks that an OpenID4VP request asks only for the data its purpose needs
+- [**awesome-eudi**](https://github.com/su-engineering/awesome-eudi): a curated index of the EUDI Wallet ecosystem
+- [**heic-web**](https://github.com/su-engineering/heic-web): HEIC decoding and conversion in the browser
+
+## Things I built on the side
+
+- [**landline**](https://github.com/mhrsntrk/landline): a terminal on your iPhone to every machine you own, over your own tailnet
+- [**ask-master**](https://github.com/mhrsntrk/ask-master): a physical human-in-the-loop MCP server for AI coding agents, on an M5Stack Cardputer
+- [**venaqui**](https://github.com/mhrsntrk/venaqui): a terminal UI for Real-Debrid and aria2 downloads
+- [**portflix**](https://github.com/mhrsntrk/portflix): see what is running on your ports
 
 ## Connect
-<div align="left">
-  <a href="https://twitter.com/mhrsntrk" target="blank"><img src="https://img.shields.io/twitter/follow/mhrsntrk?logo=twitter&style=for-the-badge" alt="mhrsntrk" />
-  </a>
-  <a href="https://linkedin.com/in/mahirsenturk" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-</div>  
 
+<div align="left">
+  <a href="https://mhrsntrk.com" target="_blank"><img src="https://img.shields.io/badge/mhrsntrk.com-FF6900?style=for-the-badge&logoColor=white" alt="mhrsntrk.com" /></a>
+  <a href="https://linkedin.com/in/mahirsenturk" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/mhrsntrk" target="_blank"><img src="https://img.shields.io/badge/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://su.engineering" target="_blank"><img src="https://img.shields.io/badge/su.engineering-%23000000.svg?&style=for-the-badge" alt="su.engineering" /></a>
+</div>
